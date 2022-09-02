@@ -10,7 +10,7 @@ My current project is:
 📫 How to reach me:  
 <mitchelljdalton@gmail.com>  
 <https://twitter.com/dalton05>  
-<https://mitchelljdalton.com
+<https://mitchelljdalton.com>
 
 Pronouns:
 He/Him  
