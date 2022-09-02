@@ -2,17 +2,17 @@
 
 My name is Mitch Dalton. I'm a software engineer passionate about efficient problem solving and unique coding solutions. 
 
-My current languages...  
-let knowledge = ['HTML', 'CSS', 'JavsScript', 'Node.js', 'Express', 'MongoDB']  
+I am fluent in the current technologies:
+JavaScript, Node, npm, Express, React, MongoDB, HTML5, CSS3
 
-🔭 I’m currently working on ...
-let studying = ['MVC', 'CRUD', 'React']  
+My current project is:
 
-📫 How to reach me: ...  
+📫 How to reach me:  
 <mitchelljdalton@gmail.com>  
 <https://twitter.com/dalton05>  
+<mitchelljdalton.com>
 
-Pronouns: ...  
+Pronouns:
 He/Him  
 
 
