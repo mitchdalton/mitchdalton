@@ -2,8 +2,8 @@
 
 My name is Mitch Dalton. I'm a software engineer passionate about efficient problem solving and unique coding solutions. 
 
-I am fluent in the current technologies:
-JavaScript, Node, npm, Express, React, MongoDB, HTML5, CSS3
+I am currently fluent in the following technologies:
+JavaScript, Node, npm, Express, React, MongoDB, HTML5, CSS3, more to come!
 
 My current project is:
 
