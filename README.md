@@ -5,7 +5,7 @@ My name is Mitch Dalton. I'm a software engineer passionate about efficient prob
 I am currently fluent in the following technologies:
 JavaScript, Node, npm, Express, EJS, React, MongoDB, HTML5, CSS3, and more to come!
 
-My current project is:
+My current project is: https://github.com/mitchdalton/grimoire
 
 📫 How to reach me:  
 <mitchelljdalton@gmail.com>  
